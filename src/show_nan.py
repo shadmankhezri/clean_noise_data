@@ -1,3 +1,6 @@
+# with "show_nan_values" just display all records that have nan value
+
+# with "show_sum_nan_values" display count of nan values 
 
 import pandas as pd
 

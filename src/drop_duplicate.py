@@ -1,4 +1,4 @@
-
+# we drop duplicat records and keep the first one with this def
 
 import pandas as pd
 

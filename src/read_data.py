@@ -1,4 +1,4 @@
-
+# whit this def just read hospital.csv file 
 
 import pandas as pd
 

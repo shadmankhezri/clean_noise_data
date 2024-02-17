@@ -1,4 +1,4 @@
-
+# whit this def we save the final clean data in the new csv file
 
 import pandas as pd
 

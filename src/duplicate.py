@@ -1,4 +1,4 @@
-
+# this def just show us a duplicated records
 
 import pandas as pd
 
